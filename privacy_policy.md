@@ -13,8 +13,7 @@
 ### [利用状況]
 本アプリでは、アプリの利用状況データを収集するツールとしてUnity Dashboardによりユーザーの利用状況を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下のUnityプライバシーポリシーのリンクよりご確認ください。
 
-Unity プライバシーポリシー
-https://unity3d.com/legal/privacy-policy
+Unity プライバシーポリシー: https://unity3d.com/legal/privacy-policy
 
 
 ## 2．取得方法
