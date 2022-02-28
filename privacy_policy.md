@@ -59,7 +59,7 @@ E-mail: studiohanth+support@gmail.com
 
 
 ---
-#Wafflewalk Privacy Policy
+# Wafflewalk Privacy Policy
 
 Store name: Hanth Game Studio describes the handling of information including personal information (hereinafter referred to as "user information") regarding the user of this application (hereinafter referred to as "user") in Wafflewalk (hereinafter referred to as "this application"). We have established a privacy policy (hereinafter referred to as "this policy") as described above.
 
