@@ -55,3 +55,64 @@ E-mail: studiohanth+support@gmail.com
 
 ## 7．制定日・改定日
 制定：2022年1月25日
+
+
+
+---
+#Wafflewalk Privacy Policy
+
+Store name: Hanth Game Studio describes the handling of information including personal information (hereinafter referred to as "user information") regarding the user of this application (hereinafter referred to as "user") in Wafflewalk (hereinafter referred to as "this application"). We have established a privacy policy (hereinafter referred to as "this policy") as described above.
+
+## 1. Purpose of use of acquired user information
+The purpose of using the user information acquired by this application is as follows.
+
+### [Advertising delivery]
+This application uses a third-party advertising service (Unity Ads).
+This advertisement distributor may use information regarding access to this site and other sites in order to display advertisements for products and services according to the user's interests. Please check the Unity Privacy Policy link below for information to be acquired, purpose of use, provision to third parties, etc.
+
+Unity Privacy Policy: https://unity3d.com/legal/privacy-policy
+
+Also, regarding Unity Ads, you can read more about this process and how to prevent such information from being used by ad publishers [here] (https://unity3d.com/legal/do-not-sell-my). Click -personal-information).
+
+### [Usage status collection]
+In this application, the usage status of the user may be automatically acquired by Unity Dashboard as a tool to collect the usage status data of the application. Please check the Unity Privacy Policy link below for information to be acquired, purpose of use, provision to third parties, etc.
+
+Unity Privacy Policy: https://unity3d.com/legal/privacy-policy
+
+
+## 2. Acquisition method
+We automatically acquire user information by this application with a built-in information collection module.
+
+
+## 3. Method of notification / publication or consent acquisition / method of user involvement
+(1) Notification / publication
+     We will notify and publish this policy by posting it in this application.
+
+(2) How to get consent
+     Consent is obtained by the method obtained when this application is started for the first time.
+
+(3) Method of user involvement
+     Acquisition of user information can be stopped by uninstalling this application.
+
+## Four. External transmission / third party provision / information collection module
+(1) External transmission
+     The acquired user information will be sent to Unity Dashboard, a third-party advertising service (Unity Ads), in accordance with Unity's privacy policy.
+
+(2) Provided by a third party
+     We may provide the acquired user information to a third party in the following cases.
+     ・ When providing statistical data in a state where the user cannot be identified
+     ・ When disclosure / provision is required by law
+
+
+## Five. inquiry
+If you have any comments, questions, complaints, or other inquiries regarding the handling of user information regarding our privacy policy, please contact the following contact.
+
+E-mail: studiohanth + support@gmail.com
+
+
+## 6. modification
+We will change this policy at our discretion. However, if there is a change in the acquired user information, purpose of use, or provision to a third party, this application will notify you, and after changing this policy, we will obtain consent from the user again when this application is started for the first time.
+
+
+## 7. Enactment date / revision date
+Enactment: January 25, 2022
