@@ -107,7 +107,7 @@ We automatically acquire user information by this application with a built-in in
 ## Five. inquiry
 If you have any comments, questions, complaints, or other inquiries regarding the handling of user information regarding our privacy policy, please contact the following contact.
 
-E-mail: studiohanth + support@gmail.com
+E-mail: studiohanth+support@gmail.com
 
 
 ## 6. modification
