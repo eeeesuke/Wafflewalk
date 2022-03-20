@@ -38,8 +38,8 @@ Unity プライバシーポリシー: https://unity3d.com/legal/privacy-policy
      取得したユーザー情報については、Unity社のプライバシーポリシーに従い第三者配信の広告サービス（Unity Ads）、Unity Dashboardに送信されます。
 
 （２）第三者提供
-     当社は、取得したユーザー情報について、以下の場合第三者に提供することがあります。
-     ・統計的なデータなどユーザーを識別することができない状態で提供する場合
+     当社は、取得したユーザー情報について、以下の場合第三者(日本国外にある者を含みます)に提供することがあります。  
+     ・統計的なデータなどユーザーを識別することができない状態で提供する場合  
      ・法令に基づき開示・提供を求められた場合
 
 
@@ -54,7 +54,8 @@ E-mail: studiohanth+support@gmail.com
 
 
 ## 7．制定日・改定日
-制定：2022年1月25日
+制定：2022年1月25日  
+改正：2022年3月20日
 
 
 
@@ -99,8 +100,8 @@ We automatically acquire user information by this application with a built-in in
      The acquired user information will be sent to Unity Dashboard, a third-party advertising service (Unity Ads), in accordance with Unity's privacy policy.
 
 (2) Provided by a third party
-     We may provide the acquired user information to a third party in the following cases.
-     ・ When providing statistical data in a state where the user cannot be identified
+     We may provide the acquired user information to third parties (including those outside Japan) in the following cases.  
+     ・ When providing statistical data in a state where the user cannot be identified  
      ・ When disclosure / provision is required by law
 
 
@@ -115,4 +116,5 @@ We will change this policy at our discretion. However, if there is a change in t
 
 
 ## 7. Enactment date / revision date
-Enactment: January 25, 2022
+Enactment: January 25, 2022  
+Amendment: March 20, 2022
